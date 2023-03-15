@@ -1,8 +1,9 @@
 # origin_consultancy
 This is a static website for Consultancy made using HTML, CSS and JS. 
 
-![Screenshot 2023-03-15 143223](https://user-images.githubusercontent.com/79129703/225265068-2e0821ca-3737-474d-aafc-0ef2d962ce5a.png)
-![Screenshot 2023-03-15 143159](https://user-images.githubusercontent.com/79129703/225265082-50e98762-c783-4d7d-8d20-0b83a6996b18.png)
-![Screenshot 2023-03-15 143124](https://user-images.githubusercontent.com/79129703/225265087-52d34f79-96b4-4c5c-b5ac-0752fcd5ce3a.png)
-![Screenshot 2023-03-15 150627](https://user-images.githubusercontent.com/79129703/225265092-6fd26447-6959-44f3-914f-e0c6554a83ab.png)
-![Screenshot 2023-03-15 143605](https://user-images.githubusercontent.com/79129703/225265102-eb356510-4a13-4749-a766-79a03a932879.png)
+
+![Screenshot 2023-03-15 150627](https://user-images.githubusercontent.com/79129703/225265207-bc136b70-bbdb-43d1-b3eb-1808500ed5fc.png)
+![Screenshot 2023-03-15 143124](https://user-images.githubusercontent.com/79129703/225265239-ad2e09db-0536-464e-9c06-39e0c2a0fc56.png)
+![Screenshot 2023-03-15 143159](https://user-images.githubusercontent.com/79129703/225265261-4cc17792-9e96-41a0-bc52-50f76d36b077.png)
+![Screenshot 2023-03-15 143223](https://user-images.githubusercontent.com/79129703/225265269-6c9121fd-bd11-49b3-a898-d13e6ceaae4f.png)
+![Screenshot 2023-03-15 143605](https://user-images.githubusercontent.com/79129703/225265284-2dd2ab22-076b-4854-b386-036a97c26f41.png)
